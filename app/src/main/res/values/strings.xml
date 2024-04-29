@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Over Play Challenge</string>
+    <string name="restarting_video_distance_meters">Restarting the video because you moved %d meters.</string>
+    <string name="pausing_video_shake_detected">Pausing the video because a shake was detected.</string>
+    <string name="seeking_by">Seeking by %d.</string>
+    <string name="voluming_by">Voluming by %s.</string>
+</resources>
